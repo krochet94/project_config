@@ -63,7 +63,3 @@ When adding new config files:
 1. Follow a clear, predictable JSON shape.
 2. Include a `*.sample.json` version where possible.
 3. Update this README with the new file and field descriptions.
-
----
-
-If you use this as a base, feel free to fork and tailor it to your own personal project ecosystem.
