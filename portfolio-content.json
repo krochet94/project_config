@@ -1,10 +1,10 @@
 {
   "typewriterStrings": [
-    "MERN Stack Developer",
-    "Fullstack Web Developer",
-    "Javascript Developer",
-    "Frontend Web Developer",
-    "Backend Web Developer"
+    "Full-Stack Software Engineer",
+    "AI-Enabled Web Applications Engineer",
+    "React & TypeScript Developer",
+    "Node.js & Firebase Engineer",
+    "Scalable Web App Builder"
   ],
   "projects": [
     {
@@ -25,29 +25,43 @@
     }
   ],
   "skillset": [
-    { "icon": "DiJavascript1", "desc": "Javascript" },
+    { "icon": "DiJavascript1", "desc": "JavaScript" },
+    { "icon": "SiTypescript", "desc": "TypeScript" },
+    { "icon": "DiPython", "desc": "Python" },
     { "icon": "DiReact", "desc": "React" },
-    { "icon": "DiNodejs", "desc": "Node.js" },
     { "icon": "SiNextdotjs", "desc": "Next.js" },
+    { "icon": "SiRedux", "desc": "Redux" },
+    { "icon": "DiNodejs", "desc": "Node.js" },
     { "icon": "SiFirebase", "desc": "Firebase" },
     { "icon": "SiExpress", "desc": "Express.js" },
+    { "icon": "SiPostgresql", "desc": "PostgreSQL" },
+    { "icon": "SiMysql", "desc": "MySQL" },
     { "icon": "DiMongodb", "desc": "MongoDB" },
-    { "icon": "SiRedux", "desc": "Redux" },
-    { "icon": "DiHtml5", "desc": "HTML" },
-    { "icon": "DiCss3", "desc": "CSS" },
-    { "icon": "DiPython", "desc": "Python" },
-    { "icon": "DiGit", "desc": "Git" },
-    { "icon": "FaAws", "desc": "AWS" }
+    { "icon": "SiTailwindcss", "desc": "Tailwind CSS" },
+    { "icon": "SiMui", "desc": "Material UI (MUI)" },
+    { "icon": "DiBootstrap", "desc": "Bootstrap" },
+    { "icon": "FaAws", "desc": "AWS" },
+    { "icon": "SiVite", "desc": "Vite" },
+    { "icon": "SiOpenai", "desc": "OpenAI GPT API" },
+    { "icon": "FaRobot", "desc": "Claude API" },
+    { "icon": "FaBrain", "desc": "Prompt Engineering" },
+    { "icon": "FaCogs", "desc": "AI Workflow Automation" }
   ],
   "tools": [
     { "icon": "DiVisualstudio", "desc": "Visual Studio" },
+    { "icon": "DiGit", "desc": "Git" },
     { "icon": "SiGithub", "desc": "Github" },
-    { "icon": "SiVercel", "desc": "Vercel" },
     { "icon": "SiPostman", "desc": "Postman" },
-    { "icon": "SiHeroku", "desc": "Heroku" },
-    { "icon": "SiGitlab", "desc": "Gitlab" },
     { "icon": "SiJira", "desc": "Jira" },
-    { "icon": "SiTrello", "desc": "Trello" }
+    { "icon": "SiWebpack", "desc": "Webpack" },
+    { "icon": "SiSentry", "desc": "Sentry" },
+    { "icon": "FaChrome", "desc": "Browser DevTools" },
+    { "icon": "SiVite", "desc": "Vite" },
+    { "icon": "SiMui", "desc": "MUI" },
+    { "icon": "SiGithub", "desc": "GitHub Copilot" },
+    { "icon": "FaRobot", "desc": "Claude" },
+    { "icon": "SiOpenai", "desc": "ChatGPT" },
+    { "icon": "SiGoogle", "desc": "Gemini" }
   ],
   "socialLinks": [
     { "platform": "Facebook", "url": "https://fb.com/krochet94", "icon": "FaFacebook" },
