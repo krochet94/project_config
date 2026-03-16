@@ -1,0 +1,61 @@
+{
+  "typewriterStrings": [
+    "MERN Stack Developer",
+    "Fullstack Web Developer",
+    "Javascript Developer",
+    "Frontend Web Developer",
+    "Backend Web Developer"
+  ],
+  "projects": [
+    {
+      "imgPath": "https://krochet94.github.io/Portfolio/img/phonealone.png",
+      "title": "PhoneAlone",
+      "description": "Smartphone E-commerce projects using MERN Stack, complete with CRUD for user/product/order, Login/Register, Add Review, Payment using Stripe API, data visualization and many more FUNCTIONALITIES.",
+      "ghLink": "https://github.com/krochet94/Phone_Alone",
+      "demoLink": "https://phone-alone.vercel.app/",
+      "isBlog": false
+    },
+    {
+      "imgPath": "https://krochet94.github.io/Portfolio/img/time-tracker.png",
+      "title": "Time Tracker",
+      "description": "A Simple Time Tracking App using React.js, Firebase(Auth, Firestore Database and Hosting) and MUI",
+      "ghLink": "https://github.com/krochet94/react-time-tracker",
+      "demoLink": "https://time-tracker-react-278d0.web.app",
+      "isBlog": false
+    }
+  ],
+  "skillset": [
+    { "icon": "DiJavascript1", "desc": "Javascript" },
+    { "icon": "DiReact", "desc": "React" },
+    { "icon": "DiNodejs", "desc": "Node.js" },
+    { "icon": "SiNextdotjs", "desc": "Next.js" },
+    { "icon": "SiFirebase", "desc": "Firebase" },
+    { "icon": "SiExpress", "desc": "Express.js" },
+    { "icon": "DiMongodb", "desc": "MongoDB" },
+    { "icon": "SiRedux", "desc": "Redux" },
+    { "icon": "DiHtml5", "desc": "HTML" },
+    { "icon": "DiCss3", "desc": "CSS" },
+    { "icon": "DiPython", "desc": "Python" },
+    { "icon": "DiGit", "desc": "Git" },
+    { "icon": "FaAws", "desc": "AWS" }
+  ],
+  "tools": [
+    { "icon": "DiVisualstudio", "desc": "Visual Studio" },
+    { "icon": "SiGithub", "desc": "Github" },
+    { "icon": "SiVercel", "desc": "Vercel" },
+    { "icon": "SiPostman", "desc": "Postman" },
+    { "icon": "SiHeroku", "desc": "Heroku" },
+    { "icon": "SiGitlab", "desc": "Gitlab" },
+    { "icon": "SiJira", "desc": "Jira" },
+    { "icon": "SiTrello", "desc": "Trello" }
+  ],
+  "socialLinks": [
+    { "platform": "Facebook", "url": "https://fb.com/krochet94", "icon": "FaFacebook" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/krochet94", "icon": "FaLinkedinIn" },
+    { "platform": "Twitter", "url": "https://twitter.com/krochet94", "icon": "AiOutlineTwitter" },
+    { "platform": "GitHub", "url": "https://github.com/krochet94", "icon": "AiFillGithub" }
+  ],
+  "contact": {
+    "cvUrl": "https://drive.google.com/file/d/1l1CkRoQWS9Wijj2kbBkQO2gKngGmJ-yC/view?usp=sharing"
+  }
+}
