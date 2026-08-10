@@ -7,6 +7,14 @@
     "Scalable Web App Builder"
   ],
   "projects": [
+      {
+      "imgPath": "https://raw.githubusercontent.com/krochet94/project_config/main/images/portfolio_teachsmart-solutions.png",
+      "title": "TeachSmart Solutions - Test Web Application",
+      "description": "A React and Firebase-based web application for TeachSmart Solutions that streamlines time tracking, user authentication, and team workflow management through a clean Material UI interface.",
+      "ghLink": "#",
+      "demoLink": "https://teachsmartsolution-staging.web.app/",
+      "isBlog": false
+    },
     {
       "imgPath": "https://raw.githubusercontent.com/krochet94/project_config/main/images/portfolio_phonealone.png",
       "title": "PhoneAlone",
