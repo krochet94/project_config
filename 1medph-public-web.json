@@ -1,0 +1,360 @@
+﻿{
+    "site":  {
+                 "name":  "1 Medical Frontier Corporation",
+                 "shortName":  "1MED",
+                 "tagline":  "Laboratory equipment, IVD products, laboratory supplies, and healthcare-related products.",
+                 "description":  "Professional supplier of laboratory equipment, in-vitro diagnostic products, laboratory supplies, consumables, and healthcare-related products.",
+                 "baseUrl":  "https://1medph-public-web.vercel.app"
+             },
+    "hero":  {
+                 "eyebrow":  "Laboratory equipment, IVD products, and supplies",
+                 "headline":  "WE 1MED CAN HELP YOU WITH YOUR\nLABORATORY NEEDS",
+                 "subheadline":  "Affordable yet High Quality Laboratory Products. We quote for any of your laboratory equipment and supply needs.",
+                 "primaryCta":  {
+                                    "label":  "Browse Products",
+                                    "href":  "/products"
+                                },
+                 "secondaryCta":  {
+                                      "label":  "Send an Inquiry",
+                                      "href":  "#contact"
+                                  },
+                 "heroImage":  "/images/laboratory-bg.jpg"
+             },
+    "about":  {
+                  "title":  "1 Medical Frontier Corporation",
+                  "intro":  "1MED supports laboratories and healthcare providers with dependable sourcing for equipment, in-vitro diagnostic products, supplies, and essential consumables.",
+                  "body":  [
+                               "We serve laboratories, clinics, hospitals, academic institutions, and other healthcare-related environments that require practical and professional product support.",
+                               "Our public catalogue highlights selected laboratory analyzers and related product lines while presenting 1MED as a focused, reliable partner for laboratory requirements."
+                           ],
+                  "image":  "/images/about-us.jpg"
+              },
+    "missionVision":  {
+                          "mission":  "To support healthcare and laboratory operations with dependable equipment, IVD products, and laboratory supplies aligned with professional day-to-day requirements.",
+                          "vision":  "To be a trusted source of laboratory and healthcare-related products for institutions that value reliability, product quality, and responsive service."
+                      },
+    "contact":  {
+                    "companyName":  "1MED Medical Equipment and Supplies Trading",
+                    "email":  "hello@1medph.example",
+                    "phone":  "+63 900 000 0000",
+                    "alternatePhone":  "+63 917 000 0000",
+                    "address":  "Mindanao, Philippines",
+                    "officeHours":  "Monday to Saturday, 8:00 AM to 5:00 PM",
+                    "googleMapsUrl":  "https://maps.google.com",
+                    "inquiryNote":  "For quotations, product availability, and laboratory supply requirements, please get in touch with the 1MED team through its official communication channels."
+                },
+    "socials":  [
+                    {
+                        "platform":  "Facebook",
+                        "label":  "Facebook",
+                        "url":  "https://facebook.com/1medph"
+                    },
+                    {
+                        "platform":  "Email",
+                        "label":  "Email",
+                        "url":  "mailto:hello@1medph.example"
+                    }
+                ],
+    "highlights":  [
+                       {
+                           "description":  "Selected equipment for routine laboratory workflows, diagnostics, and healthcare-related applications.",
+                           "title":  "Laboratory Equipment"
+                       },
+                       {
+                           "description":  "In-vitro diagnostic products intended to support clinical and laboratory testing requirements.",
+                           "title":  "IVD Products"
+                       },
+                       {
+                           "description":  "Laboratory supplies and consumables that complement day-to-day operational needs.",
+                           "title":  "Supplies and Consumables"
+                       }
+                   ],
+    "audiences":  [
+                      "Hospitals",
+                      "Diagnostic laboratories",
+                      "Private clinics",
+                      "Academic institutions",
+                      "Research teams"
+                  ],
+    "faqs":  [
+                 {
+                     "question":  "What types of products does 1MED supply?",
+                     "answer":  "1MED supplies laboratory equipment, in-vitro diagnostic products, laboratory supplies, consumables, and other healthcare-related products."
+                 },
+                 {
+                     "question":  "Can we request a quotation for specific laboratory requirements?",
+                     "answer":  "Yes. You may contact 1MED for quotations covering laboratory equipment and supply requirements based on your needs."
+                 },
+                 {
+                     "question":  "Does the catalogue include both equipment and consumables?",
+                     "answer":  "Yes. The catalogue is intended to present selected equipment lines together with related laboratory products and supplies."
+                 },
+                 {
+                     "question":  "Can we inquire about product specifications and availability?",
+                     "answer":  "Yes. Product pages provide an overview of specifications, and you may contact 1MED for further product details and availability inquiries."
+                 }
+             ],
+    "products":  [
+                     {
+                         "id":  "agd-bio-agd2020",
+                         "slug":  "agd-bio-agd2020",
+                         "brand":  "AGD Bio",
+                         "description":  "Semi-automated chemistry analyzer",
+                         "model":  "AGD2020",
+                         "productLine":  "clinical chemistry",
+                         "productType":  "analyzer",
+                         "shortDescription":  "Compact semi-automated chemistry analyzer designed for medium and small laboratories and as a backup unit for larger hospital workflows.",
+                         "featured":  false,
+                         "status":  "Available for inquiry",
+                         "thumbnail":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2020_thumbnail.jpg",
+                         "specImage":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2020_spec.jpg",
+                         "gallery":  [
+                                         "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2020_gallery-01.jpg"
+                                     ],
+                         "tags":  [
+                                      "clinical chemistry",
+                                      "semi-automated",
+                                      "touchscreen",
+                                      "small laboratory"
+                                  ],
+                         "specifications":  [
+                                                {
+                                                    "label":  "Classification",
+                                                    "value":  "Semi-automated chemistry analyzer"
+                                                },
+                                                {
+                                                    "label":  "Assay types",
+                                                    "value":  "Absorbance, End point, Kinetic, Fixed Time, Endpoint with Sample Blank, and Coagulation"
+                                                },
+                                                {
+                                                    "label":  "Wavelengths",
+                                                    "value":  "340, 405, 450, 505, 546, 578, 630, and 670 nm interference filters"
+                                                },
+                                                {
+                                                    "label":  "Absorbance range",
+                                                    "value":  "-0.1 to 3.000 Abs"
+                                                },
+                                                {
+                                                    "label":  "Memory",
+                                                    "value":  "196 programs and 5,000 test records with reaction curve"
+                                                },
+                                                {
+                                                    "label":  "Temperature control",
+                                                    "value":  "25°C, 30°C, and 37°C by Peltier effect"
+                                                },
+                                                {
+                                                    "label":  "Display",
+                                                    "value":  "7-inch graphic colour LCD resistive touchscreen, 800 x 480 pixels"
+                                                },
+                                                {
+                                                    "label":  "Printer",
+                                                    "value":  "Built-in 2-inch graphic thermal printer"
+                                                },
+                                                {
+                                                    "label":  "Dimensions",
+                                                    "value":  "360 mm x 355 mm x 170 mm"
+                                                },
+                                                {
+                                                    "label":  "Weight",
+                                                    "value":  "6.5 kg approximate"
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "agd-bio-agd2260",
+                         "slug":  "agd-bio-agd2260",
+                         "brand":  "AGD Bio",
+                         "description":  "Fully automated chemistry analyzer",
+                         "model":  "AGD2260",
+                         "productLine":  "clinical chemistry",
+                         "productType":  "analyzer",
+                         "shortDescription":  "High-throughput fully automated chemistry analyzer with up to 200 tests per hour, 40 sample positions, and 40 reagent positions.",
+                         "featured":  true,
+                         "status":  "Available for inquiry",
+                         "thumbnail":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2260_thumbnail.jpg",
+                         "specImage":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2260_spec.jpg",
+                         "gallery":  [
+                                         "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2260_gallery-01.jpg",
+                                         "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_agd-bio-agd2260_gallery-02.jpg"
+                                     ],
+                         "tags":  [
+                                      "clinical chemistry",
+                                      "fully automated",
+                                      "high throughput",
+                                      "200 tests per hour"
+                                  ],
+                         "specifications":  [
+                                                {
+                                                    "label":  "Classification",
+                                                    "value":  "Fully automated chemistry analyzer"
+                                                },
+                                                {
+                                                    "label":  "Throughput",
+                                                    "value":  "Up to 200 tests per hour"
+                                                },
+                                                {
+                                                    "label":  "Reaction system",
+                                                    "value":  "90 special cuvettes with 200 μL to 500 μL reaction volume"
+                                                },
+                                                {
+                                                    "label":  "Reaction temperature",
+                                                    "value":  "37 ± 0.1°C"
+                                                },
+                                                {
+                                                    "label":  "Sample positions",
+                                                    "value":  "40 positions for sample, STAT, calibrator, and QC"
+                                                },
+                                                {
+                                                    "label":  "Reagent positions",
+                                                    "value":  "40 positions for R1 and R2"
+                                                },
+                                                {
+                                                    "label":  "Methodology",
+                                                    "value":  "Absorbance photometry, Turbidimetry, End-point, Two-point, Kinetic, Dual reagent, monochromatic, and bichromatic"
+                                                },
+                                                {
+                                                    "label":  "Optical system",
+                                                    "value":  "9 wavelengths from 300 to 700 nm with tungsten halogen lamp"
+                                                },
+                                                {
+                                                    "label":  "Cooling",
+                                                    "value":  "On-board cooling at 2°C to 8°C"
+                                                },
+                                                {
+                                                    "label":  "Power requirements",
+                                                    "value":  "AC100-240V, 50-60Hz, 1 KVA"
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "dymind-df50",
+                         "slug":  "dymind-df50",
+                         "brand":  "Dymind Biotechnology",
+                         "description":  "5-part automatic hematology analyzer",
+                         "model":  "Dymind DF50",
+                         "productLine":  "hematology",
+                         "productType":  "analyzer",
+                         "shortDescription":  "5-part hematology analyzer using laser scatter, chemical dye, and flow cytometry with up to 60 tests per hour and bi-directional LIS support.",
+                         "featured":  true,
+                         "status":  "Available for inquiry",
+                         "thumbnail":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_dymind-df50_thumbnail.jpg",
+                         "specImage":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_dymind-df50_spec.jpg",
+                         "gallery":  [
+                                         "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_dymind-df50_gallery-01.jpg"
+                                     ],
+                         "tags":  [
+                                      "hematology",
+                                      "5-part",
+                                      "flow cytometry",
+                                      "60 tests per hour"
+                                  ],
+                         "specifications":  [
+                                                {
+                                                    "label":  "Classification",
+                                                    "value":  "5-part automatic hematology analyzer"
+                                                },
+                                                {
+                                                    "label":  "Differential",
+                                                    "value":  "5-part differentiation with 27 parameters including 23 reportable parameters"
+                                                },
+                                                {
+                                                    "label":  "Throughput",
+                                                    "value":  "Up to 60 tests per hour"
+                                                },
+                                                {
+                                                    "label":  "Sample modes",
+                                                    "value":  "Whole blood, capillary whole blood, and pre-diluted"
+                                                },
+                                                {
+                                                    "label":  "Sample volume",
+                                                    "value":  "Whole blood 15.6 μL, capillary 15.6 μL, pre-diluted 20.0 μL"
+                                                },
+                                                {
+                                                    "label":  "Principles",
+                                                    "value":  "Impedance method for WBC, RBC, and PLT; cyanide-free hemoglobin; hydrodynamic focus free and Super Blue LED scatter for WBC differential"
+                                                },
+                                                {
+                                                    "label":  "Display",
+                                                    "value":  "10.4-inch high resolution TFT touch screen"
+                                                },
+                                                {
+                                                    "label":  "Storage",
+                                                    "value":  "Up to 50,000 records"
+                                                },
+                                                {
+                                                    "label":  "Interfaces",
+                                                    "value":  "USB, LAN, COM, and bi-directional LIS support"
+                                                },
+                                                {
+                                                    "label":  "Dimensions and weight",
+                                                    "value":  "406 mm x 275 mm x 430 mm, 13 kg"
+                                                }
+                                            ]
+                     },
+                     {
+                         "id":  "dymind-dh36",
+                         "slug":  "dymind-dh36",
+                         "brand":  "Dymind Biotechnology",
+                         "description":  "3-part automatic hematology analyzer",
+                         "model":  "Dymind DH36",
+                         "productLine":  "hematology",
+                         "productType":  "analyzer",
+                         "shortDescription":  "3-part hematology analyzer with 9 μL minimum sample volume, up to 60 samples per hour, and storage for 50,000 patient results.",
+                         "featured":  true,
+                         "status":  "Available for inquiry",
+                         "thumbnail":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_dymind-dh36_thumbnail.jpg",
+                         "specImage":  "https://raw.githubusercontent.com/krochet94/project_config/main/images/1medph_dymind-dh36_spec.jpg",
+                         "gallery":  [
+
+                                     ],
+                         "tags":  [
+                                      "hematology",
+                                      "3-part",
+                                      "cbc",
+                                      "low sample volume"
+                                  ],
+                         "specifications":  [
+                                                {
+                                                    "label":  "Classification",
+                                                    "value":  "3-part automatic hematology analyzer"
+                                                },
+                                                {
+                                                    "label":  "Parameters",
+                                                    "value":  "3-part differentiation with 21 parameters plus 3 histograms"
+                                                },
+                                                {
+                                                    "label":  "Throughput",
+                                                    "value":  "Up to 60 samples per hour"
+                                                },
+                                                {
+                                                    "label":  "Sample volume",
+                                                    "value":  "Minimum 9 μL"
+                                                },
+                                                {
+                                                    "label":  "Principles",
+                                                    "value":  "Electrical impedance for WBC, RBC, and PLT with cyanide-free hemoglobin method"
+                                                },
+                                                {
+                                                    "label":  "Storage",
+                                                    "value":  "Up to 50,000 results including parameter, histogram, and patient information"
+                                                },
+                                                {
+                                                    "label":  "Communication",
+                                                    "value":  "Four USB ports and bi-directional LIS connection"
+                                                },
+                                                {
+                                                    "label":  "Operating environment",
+                                                    "value":  "15°C to 30°C, humidity 30 to 85%, air pressure 70 to 106 kPa"
+                                                },
+                                                {
+                                                    "label":  "Power requirement",
+                                                    "value":  "A.C. 100-240V, up to 300VA, 50/60Hz"
+                                                },
+                                                {
+                                                    "label":  "Dimensions and weight",
+                                                    "value":  "410 mm x 353 mm x 471 mm, 25 kg"
+                                                }
+                                            ]
+                     }
+                 ]
+}
