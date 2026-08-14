@@ -16,6 +16,14 @@
       "isBlog": false
     },
     {
+      "imgPath": "https://raw.githubusercontent.com/krochet94/project_config/main/images/portfolio_1med.png",
+      "title": "1 Medical Frontier Corporation (1MED)",
+      "description": "A company profile for 1 Medical Frontier Corporation (1MED), a professional supplier of laboratory equipment, in-vitro diagnostic products, laboratory supplies, consumables, and other healthcare-related products for laboratories, clinics, hospitals, and academic institutions.",
+      "ghLink": "#",
+      "demoLink": "https://1medph.vercel.app/",
+      "isBlog": false
+    },
+    {
       "imgPath": "https://raw.githubusercontent.com/krochet94/project_config/main/images/portfolio_phonealone.png",
       "title": "PhoneAlone",
       "description": "Smartphone E-commerce projects using MERN Stack, complete with CRUD for user/product/order, Login/Register, Add Review, Payment using Stripe API, data visualization and many more FUNCTIONALITIES.",
